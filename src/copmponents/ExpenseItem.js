@@ -12,6 +12,7 @@ function ExpenseItem() {
         <h2>{expenseTitle}</h2>
         <div className="expense-item__price">${expenseAmount}</div>
       </div>
+      <h2>test</h2>
     </div>
   );
 }
